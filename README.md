@@ -6,7 +6,7 @@ All the state lives in one place, managed with **React Context** and a **reducer
 It's part of the EcoBytes series, with the same colours as the
 [EcoBytes website](https://ecobytes-three.vercel.app).
 
-- **Live:** _add the Vercel link here_
+- **Live:** https://green-habits.vercel.app
 - **Code:** https://github.com/eddafalak/green-habits
 
 ## Features (CRUD)
